@@ -1,7 +1,16 @@
 # BeatSpider
 BeatSaber的谱面下载软件，可使用多种数据来源、保存方式以及非常多的筛选项来处理歌曲列表、歌曲包。  
+
+本软件**功能很多，使用较为复杂**，如果你在寻找**使用便捷的曲包下载/同步工具**，可以试试[**MicroBlock的BeatSync**](https://github.com/MicroCBer/beatsync)
+
+- **执行快！** 配合WGzeyu的数据缓存镜像与快速输出参数，可以在**30秒**内完成所有接近**6万首**歌曲的筛选；
+- **功能多！** 支持几乎所有的数据来源，BeatSaver提供的所有数据均可作为筛选项，还支持中文筛选与封面识别；
+- **用法多！** 可以用来制作曲包、歌单，更新已有曲包，筛选现有歌单，歌单转曲包，还能定时自动更新本地曲包；
+- **全免费！** 不像“围城”的网站，把社区贡献的免费的歌曲公然拿出来兜售，本软件无需任何付费，下载即可用。
   
 ### **下载地址：**[https://github.com/WGzeyu/BeatSpider/releases/latest](https://github.com/WGzeyu/BeatSpider/releases/latest)  
+
+
    
     
       
